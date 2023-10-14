@@ -1,0 +1,7 @@
+.env
+.gitattributes
+.idea
+workspace
+.DS_Store
+push.sh
+tag.sh
